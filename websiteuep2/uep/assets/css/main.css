@@ -147,14 +147,13 @@ input::-moz-focus-inner {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9bf1ff !important;
-			background-color: #2a2f4a;
+			color: #2493ab !important;
+			background-color: #ccd3e4;
 			text-decoration: none;
 		}
 
 		a:active {
 			color: #53e3fb !important;
-			/*background-color: #2a2f4a;*/
 		}
 
 	.links .active > a { color: #9bf1ff; }
@@ -1448,7 +1447,7 @@ input::-moz-focus-inner {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #2a2f4a;
+		background-color: #ebecec;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -1714,7 +1713,8 @@ input::-moz-focus-inner {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/banner-image-1-1920x700.jpg");
+		/*background-image: url("../../images/banner-image-1-1920x700.jpg");*/
+		background-image: url("../../images/diadopensamento.png");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -1923,7 +1923,7 @@ input::-moz-focus-inner {
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #ebecec;
 	}
 
 		#main > * {
@@ -2146,7 +2146,7 @@ input::-moz-focus-inner {
 		-ms-justify-content: center;
 		justify-content: center;
 		pointer-events: none;
-		background: rgba(36, 41, 67, 0.9);
+		background: rgba(79.9, 82.7, 89.4, 0.9);
 		box-shadow: none;
 		height: 100%;
 		left: 0;
