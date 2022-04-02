@@ -1713,7 +1713,6 @@ input::-moz-focus-inner {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		/*background-image: url("../../images/banner-image-1-1920x700.jpg");*/
 		background-image: url("../../images/diadopensamento.png");
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -1744,7 +1743,7 @@ input::-moz-focus-inner {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #A3ABD4;
 			content: '';
 			display: block;
 			height: 100%;
